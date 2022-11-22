@@ -5,3 +5,4 @@ thẻ <s></s>  : s : strikethrough : gạch ngang
 thẻ <big></big> : big : big : to lớn
 thẻ <small></small> : small : small : nhỏ hơn
 thẻ <br></br> : break : ngắt dòng
+the <bdo></bdo> : Bi-Directional Override : ghi đè 2 hướng : đảo ngược
