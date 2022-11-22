@@ -1,0 +1,7 @@
+thẻ <b></b>  : b : bold : tô đậm
+thẻ <i></i>  : i : italicized : in nghiêng
+thẻ <u></u>  : u : underlined : gạch chân
+thẻ <s></s>  : s : strikethrough : gạch ngang
+thẻ <big></big> : big : big : to lớn
+thẻ <small></small> : small : small : nhỏ hơn
+thẻ <br></br> : break : ngắt dòng
